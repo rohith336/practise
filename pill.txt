@@ -1,1 +1,1 @@
-console.lot("adosfja")sdf
+console.lot("adosfja")s
