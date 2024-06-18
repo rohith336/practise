@@ -1,1 +1,1 @@
-console.lot("adosfja")
+asdfaconsole.lot("adosfja")
