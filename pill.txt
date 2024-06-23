@@ -1,2 +1,2 @@
 console.lot("adosfja")
-  asdf
+  a
