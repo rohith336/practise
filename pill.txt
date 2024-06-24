@@ -1,3 +1,2 @@
 console.lot("adosfja")
-  a
-aaa
+  aff
